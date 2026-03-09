@@ -45,7 +45,7 @@ LinkedIn: https://www.linkedin.com/in/igor-morita-206650341/
 
 -- 
 
-Hi, I'm Igor Morita 👋
+#Hi, I'm Igor Morita 👋
 
 🎓 Computer Science Student
 💻 Interested in Software Development
