@@ -84,7 +84,7 @@ Version Control with Git
 
 ## Projects
 
-## Some projects I am currently working on:
+Some projects I am currently working on:
 
 Java management system
 
