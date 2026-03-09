@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Igor Morita 👋
 
 🎓 Estudante de Ciência da Computação
 💻 Interessado em Desenvolvimento de Software
@@ -41,6 +41,61 @@ Desenvolver minha carreira como **desenvolvedor Java**, trabalhando com backend 
 
 ## Contato
 
-GitHub: https://github.com/[seu-usuario]
-LinkedIn: https://linkedin.com/in/[seu-linkedin]
+LinkedIn: https://www.linkedin.com/in/igor-morita-206650341/
 
+-- 
+
+Hi, I'm Igor Morita 👋
+
+🎓 Computer Science Student
+💻 Interested in Software Development
+☕ Focused on Java Development
+
+About Me
+
+I am a Computer Science student with a strong interest in backend development and software engineering.
+Currently, I am improving my skills in Java, object-oriented programming, data structures, and application development.
+
+I enjoy building practical projects and continuously learning new technologies to improve my programming skills.
+
+Technologies
+
+Languages: Java, Python, C
+
+Backend: Java, REST APIs
+
+Databases: MySQL
+
+Tools: Git, GitHub, IntelliJ IDEA, VS Code
+
+Operating Systems: Linux, Windows
+
+Knowledge
+
+Object-Oriented Programming (OOP)
+
+Data Structures
+
+Algorithms
+
+REST API Development
+
+Version Control with Git
+
+Projects
+
+Some projects I am currently working on:
+
+Java management system
+
+Data structures implementations
+
+Small REST APIs for practice
+
+Goals
+
+My goal is to grow as a Java developer, focusing on backend development and building scalable systems.
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/igor-morita-206650341/
