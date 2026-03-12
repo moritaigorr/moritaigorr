@@ -13,7 +13,7 @@ Busco evoluir minhas habilidades através de projetos práticos e estudo contín
 
 ## Tecnologias
 
-* **Linguagens:** Java, Python, C
+* **Linguagens:** Java, Python
 * **Backend:** Java, APIs REST
 * **Banco de dados:** MySQL
 * **Ferramentas:** Git, GitHub, IntelliJ IDEA, VS Code
