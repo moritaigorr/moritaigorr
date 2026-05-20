@@ -1,13 +1,40 @@
-# Olá, eu sou o Igor 👋
+# Hello, I'm Igor Morita 👋
 
-Sou **assistente de desenvolvedor** na **Evertec Brasil**, atuando como **full stack**.
+Software Engineering enthusiast passionate about building scalable applications, learning modern technologies, and creating efficient solutions.
 
-## Sobre mim
-Tenho experiência com desenvolvimento de aplicações web e trabalho com tecnologias modernas para backend, frontend e containerização.
+## 🚀 About Me
 
-## Stack principal
+- 🎓 Student focused on Software Engineering
+- 💻 Interested in backend and full-stack development
+- 🌍 Interested in international opportunities and technology
+- 📚 Currently studying clean archtecture, system design, and modern development tools like AI agents for optimizing time and resources
+- ⚡ Always learning and building new projects
+
+---
+
+## 🛠️ Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/igor-morita-206650341/)
+
+---
+
+> “Consistency beats intensity.”
