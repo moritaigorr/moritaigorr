@@ -25,7 +25,7 @@ Software Engineering enthusiast passionate about building scalable applications,
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/igor-morita-206650341/)
+- LinkedIn: [https://linkedin.com/in/moritaigorr](https://www.linkedin.com/in/igor-morita-206650341/)
 
 ---
 
