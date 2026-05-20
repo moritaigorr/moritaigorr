@@ -23,14 +23,6 @@ Software Engineering enthusiast passionate about building scalable applications,
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoritaIgorr&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoritaIgorr&layout=compact&theme=transparent)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/igor-morita-206650341/)
