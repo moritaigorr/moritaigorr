@@ -25,9 +25,9 @@ Software Engineering enthusiast passionate about building scalable applications,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moritaigorr&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorMorita&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moritaigorr&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMorita&layout=compact&theme=transparent)
 
 ---
 
