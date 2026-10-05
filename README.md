@@ -27,6 +27,4 @@ Software Engineering enthusiast passionate about building scalable applications,
 
 - LinkedIn: [https://linkedin.com/in/moritaigorr](https://www.linkedin.com/in/igor-morita-206650341/)
 
----
 
-> “Consistency beats intensity.”
