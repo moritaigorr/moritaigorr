@@ -1,30 +1,42 @@
-# Hello, I'm Igor Morita 👋
 
-Software Engineering enthusiast passionate about building scalable applications, learning modern technologies, and creating efficient solutions.
+# Hi, I'm Igor Morita 👋
 
-## 🚀 About Me
+**Software Engineer | Backend & Full Stack Development | Generative AI**
 
-- 🎓 Student focused on Software Engineering
-- 💻 Interested in backend and full-stack development
-- 🌍 Interested in international opportunities and technology
-- 📚 Currently studying clean archtecture, system design, and modern development tools like AI agents for optimizing time and resources
-- ⚡ Always learning and building new projects
+Building scalable applications, RESTful APIs, modern web solutions, and AI-powered systems.
 
----
+Currently working with **Java, Spring Boot, Python, FastAPI, TypeScript, React, and Generative AI**, focusing on software architecture, intelligent automation, and modern development practices.
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📫 Connect With Me
+**Frameworks & Libraries**
 
-- LinkedIn: [https://linkedin.com/in/moritaigorr](https://www.linkedin.com/in/igor-morita-206650341/)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
+**Databases & Tools**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Generative AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/igor-morita)
